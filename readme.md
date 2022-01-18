@@ -11,17 +11,17 @@ Clone this repo
 
     git clone https://github.com/szabadimiklos/reacttaskmanager.git
 
-After cloning, install the dependencies with npm. In the root folder of the project, run this command:
+After cloning, install the dependencies with npm. In the **root folder** of the project, run this command (give it some time, it can take a few minutes):
 
     npm install
 
-Now just start the server:
-
-    npm start
-
-And finally, in a **different terminal**, start the fake backend too:
+Now just start the fake backend too:
 
     npm run fakejsonserver
+
+And finally, in a **different terminal**, but still in the **root folder**, start the server:
+
+    npm start
 
 After this, open (or refresh, if already opened) this page: http://localhost:3000/  
 You should see the app running without any problems.  
