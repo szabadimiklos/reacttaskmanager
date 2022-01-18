@@ -15,7 +15,7 @@ After cloning, install the dependencies with npm. In the **root folder** of the 
 
     npm install
 
-Now just start the fake backend too:
+Now just start the fake backend:
 
     npm run fakejsonserver
 
